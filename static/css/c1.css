@@ -1,0 +1,11 @@
+h1{
+    color:rgb(25, 159, 159);
+    background-color:rgb(15, 224, 126);
+    text-decoration-color: black;
+    img{
+        height: 100px;
+        width: 500px;
+        background-color: chartreuse;
+        
+    }
+}
